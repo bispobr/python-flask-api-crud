@@ -2,13 +2,6 @@
 
 Este repositório contém um projeto CRUD simples construído usando flask. O objetivo deste repositório é praticar e construir todos os métodos CRUD usando python.
 
-## Indice
-
-- [Instalação](Instalação)
-- [configuração](#configuração)
-- [API Endpoints](#api-endpoints)
-- [Banco-de-Dados](#Banco-de-Dados)
-
 ## Instalação
 
 1. Clone o repositório:
